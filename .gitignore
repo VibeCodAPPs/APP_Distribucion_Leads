@@ -1,0 +1,22 @@
+# Entornos virtuales de Python
+/.venv/
+venv/
+*.pyc
+
+# Caché de Python
+__pycache__/
+
+# Archivos del IDE (JetBrains)
+.idea/
+
+# Archivos de build de PyInstaller
+/build/
+/dist/
+*.spec
+
+# Archivos de configuración de herramientas
+qodana.yaml
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,20 @@
+{
+    "auxiliares_iniciales": {
+        "cantidad": 2,
+        "nombres": [
+            "JOSE",
+            "VICTOR"
+        ]
+    },
+    "auxiliares_finales": {
+        "cantidad": 1,
+        "nombres": [
+            "ROGER"
+        ]
+    },
+    "opciones_duplicados": {
+        "buscar_correo": true,
+        "buscar_telefono": true,
+        "eliminar_antes": true
+    }
+}
